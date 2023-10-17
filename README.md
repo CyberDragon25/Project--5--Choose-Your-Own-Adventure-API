@@ -51,7 +51,7 @@ GIF created with **Kap**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I started this app and found the codepath API library hard to use; I know I am dumb :confused:, so I used the volley library, I have used this library before for a class project, so I am more used to it. So I used that to build the app, honestly I need to look through the app once more so I can imporve it.
 
 ## License
 
