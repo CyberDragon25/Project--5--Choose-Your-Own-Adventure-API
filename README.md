@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 **Random Pokemon Generator** is an android app that **An app that displays a random Pokemon from the  PokeAPI**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **:disappointed_relieved: :sob: :sleepy:**
 
 ## Application Features
 
@@ -40,7 +40,7 @@ My chosen API for this project is **Pokemon Api**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='./RandomPokemonGenerator.gif' title='Video Demo of App' width='' alt='Video Demo' />
 
 GIF created with **Kap**
 
